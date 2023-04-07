@@ -7,4 +7,4 @@ S tipko b1 vklopimo vrtenje motorja (preko tranzistorja) v DESNO, s tipko b2 pa 
 
 # Priredbeni seznam:
 
-![image](https://user-images.githubusercontent.com/71507657/230553200-1f187bd8-77b8-4eee-a957-388759c72188.png)
+![image](https://user-images.githubusercontent.com/71507657/230553413-31104cee-6663-4b43-9c57-ee7d5bd4f6c4.png)
