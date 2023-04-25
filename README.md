@@ -5,6 +5,9 @@ S tipko b1 vklopimo vrtenje motorja (preko tranzistorja) v DESNO, s tipko b2 pa 
 
 # Kosovnica:
 
+![image](https://user-images.githubusercontent.com/130429144/234213890-24e8e6ac-76f1-4a02-a1ba-3a353765a9c3.png)
+
+
 # Priredbeni seznam:
 
 ![image](https://user-images.githubusercontent.com/71507657/230553413-31104cee-6663-4b43-9c57-ee7d5bd4f6c4.png)
