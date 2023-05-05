@@ -28,3 +28,5 @@ S tipko b1 vklopimo vrtenje motorja (preko tranzistorja) v DESNO, s tipko b2 pa 
 
 #video ALPHA:
 
+
+https://user-images.githubusercontent.com/130429144/236404293-47f6654a-e8fe-4030-b4b6-0a2e9b7f6b3a.mp
