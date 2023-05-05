@@ -21,3 +21,7 @@ S tipko b1 vklopimo vrtenje motorja (preko tranzistorja) v DESNO, s tipko b2 pa 
 # Alpha vezje:
 
 ![image](https://user-images.githubusercontent.com/71507657/236387229-65090ec3-c347-4144-9d18-9070262fd689.png)
+
+#Vezalna shema za ALPHA:
+
+![image](https://user-images.githubusercontent.com/130429144/236389037-dcc63d81-f5e4-429d-9bd3-f3a39239f565.png)
