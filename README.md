@@ -1,5 +1,6 @@
 # Projekt_Krmiljenje-el.-motorja
-#Besedilo naloge:
+
+# Besedilo naloge:
 
 S tipko b1 vklopimo vrtenje motorja (preko tranzistorja) v DESNO, s tipko b2 pa v LEVO. Smer vrtenja je možno spremeniti le tako, da najprej ustavimo motor s tipko b3. Ukaz za izklop ima prednost pred vklopom. Pogon naj se izklopi in ponovni vklop ni možen, dokler: 1) vgrajen senzor tlaka olja OT v ležajih, da je tlak prenizek (potencimeter!) ALI 2) ko je uporabljeno varnostno stikalo za zasilni izklop (stikalo)
 
@@ -21,22 +22,22 @@ S tipko b1 vklopimo vrtenje motorja (preko tranzistorja) v DESNO, s tipko b2 pa 
 
 # Slika vezja:
 
-#ino. program:
+# ino. program:
 
-#Videoposnetek:
+# Videoposnetek:
 
-#Komentar:
+# Komentar:
 
 
 # Alpha vezje:
 
 ![image](https://user-images.githubusercontent.com/71507657/236387229-65090ec3-c347-4144-9d18-9070262fd689.png)
 
-#Vezalna shema za ALPHA:
+# Vezalna shema za ALPHA:
 
 ![image](https://user-images.githubusercontent.com/130429144/236389037-dcc63d81-f5e4-429d-9bd3-f3a39239f565.png)
 
-#video ALPHA:
+# video ALPHA:
 
 
 https://user-images.githubusercontent.com/130429144/236404293-47f6654a-e8fe-4030-b4b6-0a2e9b7f6b3a.mp
