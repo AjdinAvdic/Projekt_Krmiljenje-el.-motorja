@@ -32,6 +32,8 @@ S tipko b1 vklopimo vrtenje motorja (preko tranzistorja) v DESNO, s tipko b2 pa 
 
 # Vezalna shema Easy:
 
+![image](https://github.com/AjdinAvdic/Projekt_Krmiljenje-el.-motorja/assets/130429144/4cc767cf-0539-45c9-a7d8-b8404aa5447c)
+
 # Alpha vezje:
 
 ![image](https://user-images.githubusercontent.com/71507657/236387229-65090ec3-c347-4144-9d18-9070262fd689.png)
