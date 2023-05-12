@@ -28,6 +28,9 @@ S tipko b1 vklopimo vrtenje motorja (preko tranzistorja) v DESNO, s tipko b2 pa 
 
 # Komentar:
 
+# LAD EasySoft:
+
+# Vezalna shema Easy:
 
 # Alpha vezje:
 
