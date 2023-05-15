@@ -30,6 +30,9 @@ S tipko b1 vklopimo vrtenje motorja (preko tranzistorja) v DESNO, s tipko b2 pa 
 
 # LAD EasySoft:
 
+[LAD EasySoft Kreže, Avdić.zip](https://github.com/AjdinAvdic/Projekt_Krmiljenje-el.-motorja/files/11474722/LAD.EasySoft.Kreze.Avdic.zip)
+
+
 # Vezalna shema Easy:
 
 ![image](https://github.com/AjdinAvdic/Projekt_Krmiljenje-el.-motorja/assets/130429144/4cc767cf-0539-45c9-a7d8-b8404aa5447c)
