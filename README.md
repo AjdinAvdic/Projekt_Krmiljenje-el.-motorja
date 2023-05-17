@@ -22,6 +22,9 @@ S tipko b1 vklopimo vrtenje motorja (preko tranzistorja) v DESNO, s tipko b2 pa 
 
 # Slika vezja:
 
+![image](https://github.com/AjdinAvdic/Projekt_Krmiljenje-el.-motorja/assets/130429144/ab4585cb-61a6-48d3-8d24-edad1d13611a)
+
+
 # ino. program:
 
 [Arduino koda.txt](https://github.com/AjdinAvdic/Projekt_Krmiljenje-el.-motorja/files/11494586/Arduino.koda.txt)
@@ -29,7 +32,12 @@ S tipko b1 vklopimo vrtenje motorja (preko tranzistorja) v DESNO, s tipko b2 pa 
 
 # Videoposnetek:
 
+[Video Arduino Kreže, Avdić.zip](https://github.com/AjdinAvdic/Projekt_Krmiljenje-el.-motorja/files/11494607/Video.Arduino.Kreze.Avdic.zip)
+
+
 # Komentar:
+
+Največ težav sva imela s kodo, ostali deli naloge pa nama niso delali večjih težav.
 
 # LAD EasySoft:
 
