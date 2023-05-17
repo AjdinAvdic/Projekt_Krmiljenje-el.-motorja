@@ -24,6 +24,9 @@ S tipko b1 vklopimo vrtenje motorja (preko tranzistorja) v DESNO, s tipko b2 pa 
 
 # ino. program:
 
+[Arduino koda.txt](https://github.com/AjdinAvdic/Projekt_Krmiljenje-el.-motorja/files/11494586/Arduino.koda.txt)
+
+
 # Videoposnetek:
 
 # Komentar:
